@@ -1,0 +1,346 @@
+﻿{
+    "CVE-2025-5535":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-0012":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-22253":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-41931":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-4721":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-49560":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-21762":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-3134":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-24813":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-5412":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-5766":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-5109":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-49493":  {
+                           "description":  "Akamai CloudTest before 60 2025.06.02 (12988) allows file inclusion via XML External Entity (XXE) injection.",
+                           "published":  "2025-06-30",
+                           "lastModified":  "2026-06-17",
+                           "severity":  "MEDIUM",
+                           "vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:L/I:N/A:N",
+                           "cvss":  5.8
+                       },
+    "CVE-2025-4284":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-5151":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-28839":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-5195":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-38477":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-4912":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-45230":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-21287":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-38114":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-4965":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-4134":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-2918":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-4868":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-28847":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-46956":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-2251":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-50858":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-27198":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-41929":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-38077":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-48248":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-52027":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-4425":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-47575":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-5001":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-4426":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-20698":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-2825":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-56145":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-5147":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-5345":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-4978":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-34035":  {
+                           "description":  "An OS command injection vulnerability exists in EnGenius EnShare Cloud Service version 1.4.11 and earlier. The usbinteract.cgi script fails to properly sanitize user input passed to the path parameter, allowing unauthenticated remote attackers to inject arbitrary shell commands. The injected commands are executed with root privileges, leading to full system compromise. Exploitation evidence was observed by the Shadowserver Foundation on 2024-12-05 UTC.",
+                           "published":  "2025-06-24",
+                           "lastModified":  "2026-06-17",
+                           "severity":  "CRITICAL",
+                           "vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+                           "cvss":  9.8
+                       },
+    "CVE-2024-21763":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-38100":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-29825":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-38819":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-24919":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-27199":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-20697":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-3863":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-48957":  {
+                           "description":  "AstrBot is a large language model chatbot and development framework. A path traversal vulnerability present in versions 3.4.4 through 3.5.12 may lead to information disclosure, such as API keys for LLM providers, account passwords, and other sensitive data. The vulnerability has been addressed in Pull Request #1676 and is included in version 3.5.13. As a workaround, users can edit the `cmd_config.json` file to disable the dashboard feature as a temporary workaround. However, it is strongly recommended to upgrade to version v3.5.13 or later to fully resolve this issue.",
+                           "published":  "2025-06-02",
+                           "lastModified":  "2026-06-17",
+                           "severity":  "HIGH",
+                           "vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+                           "cvss":  7.5
+                       },
+    "CVE-2025-4677":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-38078":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-8266":  {
+                          "description":  "A vulnerability has been found in yanyutao0402 ChanCMS up to 3.1.2 and classified as critical. Affected by this vulnerability is the function getArticle of the file app/modules/cms/controller/collect.js. The manipulation of the argument targetUrl leads to deserialization. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 3.1.3 is able to address this issue. It is recommended to upgrade the affected component.",
+                          "published":  "2025-07-28",
+                          "lastModified":  "2026-06-17",
+                          "severity":  "MEDIUM",
+                          "vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L",
+                          "cvss":  6.3
+                      },
+    "CVE-2025-5301":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-30039":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-4505":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-29640":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-21413":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-49570":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-49002":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-55449":  {
+                           "description":  "AstrBotDevs AstrBot 3.5.15 has Advanced_System_for_Text_Response_and_Bot_Operations_Tool as the hardcoded private key used to sign a JWT.",
+                           "published":  "2026-05-08",
+                           "lastModified":  "2026-06-17",
+                           "severity":  "HIGH",
+                           "vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L",
+                           "cvss":  7.3
+                       },
+    "CVE-2024-20353":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-49003":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-22252":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-4567":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-22422":  {
+                           "description":  "In multiple locations, there is a possible way to mislead a user into approving an authentication prompt for one app when its result will be used in another due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
+                           "published":  "2025-09-02",
+                           "lastModified":  "2026-06-17",
+                           "severity":  "HIGH",
+                           "vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+                           "cvss":  7.8
+                       },
+    "CVE-2024-29824":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-46982":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-2024":  {
+                          "description":  "Trimble SketchUp SKP File Parsing Uninitialized Variable Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trimble SketchUp. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of SKP files. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-25210.",
+                          "published":  "2025-03-07",
+                          "lastModified":  "2026-06-17",
+                          "severity":  "HIGH",
+                          "vector":  "CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+                          "cvss":  7.8
+                      },
+    "CVE-2025-5573":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-21225":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-45590":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-52727":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-42369":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-9264":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-20354":  {
+                           "description":  "A vulnerability in the Java Remote Method Invocation (RMI) process of Cisco Unified CCX could allow an unauthenticated, remote attacker to upload arbitrary files and execute arbitrary commands with root permissions on an affected system.\r\n\r\nThis vulnerability is due to improper authentication mechanisms that are associated to specific Cisco Unified CCX features. An attacker could exploit this vulnerability by uploading a crafted file to an affected system through the Java RMI process. A successful exploit could allow the attacker to execute arbitrary commands on the underlying operating system and elevate privileges to root.",
+                           "published":  "2025-11-05",
+                           "lastModified":  "2026-06-17",
+                           "severity":  "CRITICAL",
+                           "vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+                           "cvss":  9.8
+                       },
+    "CVE-2024-43639":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-27817":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-44340":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-38021":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-51378":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-27197":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-22952":  {
+                           "description":  "elestio memos v0.23.0 is vulnerable to Server-Side Request Forgery (SSRF) due to insufficient validation of user-supplied URLs, which can be exploited to perform SSRF attacks.",
+                           "published":  "2025-02-27",
+                           "lastModified":  "2026-06-17",
+                           "severity":  "CRITICAL",
+                           "vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+                           "cvss":  9.8
+                       },
+    "CVE-2026-20841":  {
+                           "description":  "Improper neutralization of special elements used in a command (\u0027command injection\u0027) in Windows Notepad App allows an unauthorized attacker to execute code locally.",
+                           "published":  "2026-02-10",
+                           "lastModified":  "2026-06-17",
+                           "severity":  "HIGH",
+                           "vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+                           "cvss":  7.8
+                       },
+    "CVE-2024-52726":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2024-2812":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-37080":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       },
+    "CVE-2025-4273":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-4788":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-5612":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2025-5163":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-1709":  {
+                          "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                      },
+    "CVE-2024-56477":  {
+                           "error":  "使用“0”个参数调用“GetResponse”时发生异常:“远程服务器返回错误: (429) Too Many Requests。”"
+                       }
+}
