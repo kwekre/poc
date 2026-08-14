@@ -115,10 +115,10 @@ python3 tools/mass_scanner.py -f targets.txt -o results.json
 
 | 类别         | 数量   | 代表漏洞                                  |
 | ------------ | ------ | ----------------------------------------- |
-| CVE 详细 POC | 16 个  | Confluence OGNL RCE, Palo Alto PAN-OS RCE |
-| CVE 存根     | ~85 个 | 2024~2025 高危漏洞                        |
-| OA 漏洞      | 15+ 个 | 泛微/致远/通达 详细+存根                  |
-| CMS 漏洞     | 10+ 个 | 织梦/帝国CMS/骑士CMS                      |
+| CVE 详细 POC | 35+ 个  | Confluence OGNL RCE, Palo Alto PAN-OS RCE |
+| CVE 存根     | ~100 个 | 2024~2026 高危漏洞                        |
+| OA 漏洞      | 45+ 个 | 泛微/致远/通达 详细+存根                  |
+| CMS 漏洞     | 30+ 个 | 织梦/帝国CMS/骑士CMS                      |
 | Web 类型扫描 | 10 个  | SQLi/命令注入/SSRF/XSS/LFI                |
 
 **CVSS 分布**: Critical (9.0~10.0) × 60+, High (7.0~8.9) × 40+
