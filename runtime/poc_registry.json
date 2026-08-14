@@ -1,0 +1,612 @@
+{
+  "CVE-2023-22515": {
+    "path": "cves\\CVE-2023-22515\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-0012": {
+    "path": "cves\\CVE-2024-0012\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-1709": {
+    "path": "cves\\CVE-2024-1709\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-20353": {
+    "path": "cves\\CVE-2024-20353\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-20697": {
+    "path": "cves\\CVE-2024-20697\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-20698": {
+    "path": "cves\\CVE-2024-20698\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-21225": {
+    "path": "cves\\CVE-2024-21225\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-21287": {
+    "path": "cves\\CVE-2024-21287\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-21413": {
+    "path": "cves\\CVE-2024-21413\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-21762": {
+    "path": "cves\\CVE-2024-21762\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-21763": {
+    "path": "cves\\CVE-2024-21763\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-22252": {
+    "path": "cves\\CVE-2024-22252\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-22253": {
+    "path": "cves\\CVE-2024-22253\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-2251": {
+    "path": "cves\\CVE-2024-2251\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-23897": {
+    "path": "cves\\CVE-2024-23897\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-24919": {
+    "path": "cves\\CVE-2024-24919\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-27197": {
+    "path": "cves\\CVE-2024-27197\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-27198": {
+    "path": "cves\\CVE-2024-27198\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-27199": {
+    "path": "cves\\CVE-2024-27199\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-2812": {
+    "path": "cves\\CVE-2024-2812\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-28839": {
+    "path": "cves\\CVE-2024-28839\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-28847": {
+    "path": "cves\\CVE-2024-28847\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-2918": {
+    "path": "cves\\CVE-2024-2918\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-29640": {
+    "path": "cves\\CVE-2024-29640\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-29824": {
+    "path": "cves\\CVE-2024-29824\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-29825": {
+    "path": "cves\\CVE-2024-29825\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-30039": {
+    "path": "cves\\CVE-2024-30039\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-3400": {
+    "path": "cves\\CVE-2024-3400\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-36477": {
+    "path": "cves\\CVE-2024-36477\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-37080": {
+    "path": "cves\\CVE-2024-37080\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-38021": {
+    "path": "cves\\CVE-2024-38021\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-38077": {
+    "path": "cves\\CVE-2024-38077\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-38078": {
+    "path": "cves\\CVE-2024-38078\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-38100": {
+    "path": "cves\\CVE-2024-38100\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-38114": {
+    "path": "cves\\CVE-2024-38114\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-38477": {
+    "path": "cves\\CVE-2024-38477\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-38819": {
+    "path": "cves\\CVE-2024-38819\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-41929": {
+    "path": "cves\\CVE-2024-41929\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-41931": {
+    "path": "cves\\CVE-2024-41931\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-42369": {
+    "path": "cves\\CVE-2024-42369\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-43639": {
+    "path": "cves\\CVE-2024-43639\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-44340": {
+    "path": "cves\\CVE-2024-44340\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-45230": {
+    "path": "cves\\CVE-2024-45230\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-45590": {
+    "path": "cves\\CVE-2024-45590\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-46956": {
+    "path": "cves\\CVE-2024-46956\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-46982": {
+    "path": "cves\\CVE-2024-46982\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-47575": {
+    "path": "cves\\CVE-2024-47575\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-48248": {
+    "path": "cves\\CVE-2024-48248\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-49560": {
+    "path": "cves\\CVE-2024-49560\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-49570": {
+    "path": "cves\\CVE-2024-49570\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-50858": {
+    "path": "cves\\CVE-2024-50858\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-51378": {
+    "path": "cves\\CVE-2024-51378\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-52027": {
+    "path": "cves\\CVE-2024-52027\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-52726": {
+    "path": "cves\\CVE-2024-52726\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-52727": {
+    "path": "cves\\CVE-2024-52727\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-56145": {
+    "path": "cves\\CVE-2024-56145\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-56477": {
+    "path": "cves\\CVE-2024-56477\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2024-9264": {
+    "path": "cves\\CVE-2024-9264\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-2024": {
+    "path": "cves\\CVE-2025-2024\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-20354": {
+    "path": "cves\\CVE-2025-20354\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-22422": {
+    "path": "cves\\CVE-2025-22422\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-22952": {
+    "path": "cves\\CVE-2025-22952\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-24813": {
+    "path": "cves\\CVE-2025-24813\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-27817": {
+    "path": "cves\\CVE-2025-27817\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-2825": {
+    "path": "cves\\CVE-2025-2825\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-3134": {
+    "path": "cves\\CVE-2025-3134\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-34035": {
+    "path": "cves\\CVE-2025-34035\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-3863": {
+    "path": "cves\\CVE-2025-3863\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4134": {
+    "path": "cves\\CVE-2025-4134\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4273": {
+    "path": "cves\\CVE-2025-4273\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4284": {
+    "path": "cves\\CVE-2025-4284\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4425": {
+    "path": "cves\\CVE-2025-4425\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4426": {
+    "path": "cves\\CVE-2025-4426\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4505": {
+    "path": "cves\\CVE-2025-4505\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4567": {
+    "path": "cves\\CVE-2025-4567\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4677": {
+    "path": "cves\\CVE-2025-4677\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4721": {
+    "path": "cves\\CVE-2025-4721\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4788": {
+    "path": "cves\\CVE-2025-4788\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4868": {
+    "path": "cves\\CVE-2025-4868\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-48957": {
+    "path": "cves\\CVE-2025-48957\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-49002": {
+    "path": "cves\\CVE-2025-49002\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-49003": {
+    "path": "cves\\CVE-2025-49003\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4912": {
+    "path": "cves\\CVE-2025-4912\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-49493": {
+    "path": "cves\\CVE-2025-49493\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4965": {
+    "path": "cves\\CVE-2025-4965\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-4978": {
+    "path": "cves\\CVE-2025-4978\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-5001": {
+    "path": "cves\\CVE-2025-5001\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-5109": {
+    "path": "cves\\CVE-2025-5109\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-5147": {
+    "path": "cves\\CVE-2025-5147\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-5151": {
+    "path": "cves\\CVE-2025-5151\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-5163": {
+    "path": "cves\\CVE-2025-5163\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-5195": {
+    "path": "cves\\CVE-2025-5195\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-5301": {
+    "path": "cves\\CVE-2025-5301\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-5345": {
+    "path": "cves\\CVE-2025-5345\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-5412": {
+    "path": "cves\\CVE-2025-5412\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-5535": {
+    "path": "cves\\CVE-2025-5535\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-55449": {
+    "path": "cves\\CVE-2025-55449\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-5573": {
+    "path": "cves\\CVE-2025-5573\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-5612": {
+    "path": "cves\\CVE-2025-5612\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-5766": {
+    "path": "cves\\CVE-2025-5766\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2025-8266": {
+    "path": "cves\\CVE-2025-8266\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2026-1281": {
+    "path": "cves\\CVE-2026-1281\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2026-20841": {
+    "path": "cves\\CVE-2026-20841\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2026-21643": {
+    "path": "cves\\CVE-2026-21643\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2026-27654": {
+    "path": "cves\\CVE-2026-27654\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2026-28517": {
+    "path": "cves\\CVE-2026-28517\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2026-42945": {
+    "path": "cves\\CVE-2026-42945\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "CVE-2026-6982": {
+    "path": "cves\\CVE-2026-6982\\poc.py",
+    "type": "cve",
+    "module": "general"
+  },
+  "dedecms_CVE-2023-2928": {
+    "path": "oacms\\dedecms\\CVE-2023-2928.py",
+    "type": "oacms",
+    "module": "general"
+  },
+  "dedecms_poc": {
+    "path": "oacms\\dedecms\\CVE-2023-2928\\poc.py",
+    "type": "oacms",
+    "module": "general"
+  },
+  "empirecms_empirecms_rce": {
+    "path": "oacms\\empirecms\\empirecms_rce.py",
+    "type": "oacms",
+    "module": "rce"
+  },
+  "empirecms_poc": {
+    "path": "oacms\\empirecms\\CNVD-2021-40391\\poc.py",
+    "type": "oacms",
+    "module": "general"
+  },
+  "qcms_74cms_sqli": {
+    "path": "oacms\\qcms\\74cms_sqli.py",
+    "type": "oacms",
+    "module": "sql_injection"
+  },
+  "qcms_poc": {
+    "path": "oacms\\qcms\\CNVD-2022-01452\\poc.py",
+    "type": "oacms",
+    "module": "general"
+  },
+  "seeyon_seeyon_file_upload": {
+    "path": "oacms\\seeyon\\seeyon_file_upload.py",
+    "type": "oacms",
+    "module": "upload"
+  },
+  "seeyon_poc": {
+    "path": "oacms\\seeyon\\CVE-2021-01627\\poc.py",
+    "type": "oacms",
+    "module": "general"
+  },
+  "tongda_tongda_rce": {
+    "path": "oacms\\tongda\\tongda_rce.py",
+    "type": "oacms",
+    "module": "rce"
+  },
+  "tongda_poc": {
+    "path": "oacms\\tongda\\CVE-2024-12356\\poc.py",
+    "type": "oacms",
+    "module": "general"
+  },
+  "weaver_CVE-2024-26136": {
+    "path": "oacms\\weaver\\CVE-2024-26136.py",
+    "type": "oacms",
+    "module": "general"
+  },
+  "weaver_getLabelByModule_sqli": {
+    "path": "oacms\\weaver\\getLabelByModule_sqli.py",
+    "type": "oacms",
+    "module": "sql_injection"
+  },
+  "weaver_weaver_e8_sqli": {
+    "path": "oacms\\weaver\\weaver_e8_sqli.py",
+    "type": "oacms",
+    "module": "sql_injection"
+  },
+  "weaver_poc": {
+    "path": "oacms\\weaver\\QVD-2024-26136\\poc.py",
+    "type": "oacms",
+    "module": "general"
+  }
+}
